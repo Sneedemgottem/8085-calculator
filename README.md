@@ -11,8 +11,9 @@ TODO: Post verilog code for FPGA as well as minimal operating system written in 
 * Aartix-7 FPGA
 * and level shifters from 3.3v to 5v and vice versa. Reason is: fpga takes 3.3v and all computer components run at 5.
 
-![alt text](https://github.com/Sneedemgottem/8085-calculator/raw/master/breadboard.jpg "breadboard.jpg")
+![breadboard.jpg](https://raw.githubusercontent.com/Sneedemgottem/8085-calculator/main/breadboard.jpg)
 
 **Image 2:** TM1638 module connected to FPGA
 Needed to use FPGA in order to interface with the tm1638. Has a serial connection and weird timing.
-![alt text](https://github.com/Sneedemgottem/8085-calculator/raw/master/tm1638.jpg "tm1638.jpg")
+
+![tm168.jpg](https://raw.githubusercontent.com/Sneedemgottem/8085-calculator/main/tm1638.jpg)
